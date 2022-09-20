@@ -1,4 +1,4 @@
-## to delete a remote branch 
+## `To delete a remote branch `
 ### git push origin:branch_name
 
 ## To delete a local branch 
@@ -20,7 +20,7 @@
 
 
 
-- [x] `To delete a remote branch `               git push origin:branch_name  
+               git push origin:branch_name  
 - [x] `To delete a local branch`                 git branch -d branch_name
 - [x] `How to list tag `                         git tag
 - [x] `to delete remote tag  `                   git push origin --delete v1.7
